@@ -4,6 +4,6 @@ Ta repozitorij vsebuje projekt v katerem sva ustvarili igrico Kača. Projekt sva
 
 Pri projektu smo uporabili programski jezik Java v urejevalniku Eclipse. 
 
-Za lažje razumevanje sva posneli še video: 
+Za lažje razumevanje sva posneli še video: https://youtu.be/acnBYN0lIec
 
 
